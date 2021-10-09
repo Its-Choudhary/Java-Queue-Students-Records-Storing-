@@ -1,0 +1,48 @@
+Enter the no of records you want to add--
+4
+Enter Your Name
+Naresh
+Enter Your Maths Marks
+89
+Enter Your Physics Marks
+98
+Enter Your Chemistry Marks
+78
+Enter Your Name
+Naman
+Enter Your Maths Marks
+87
+Enter Your Physics Marks
+99
+Enter Your Chemistry Marks
+87
+Enter Your Name
+Kushal
+Enter Your Maths Marks
+78
+Enter Your Physics Marks
+98
+Enter Your Chemistry Marks
+87
+Enter Your Name
+Palak 
+Enter Your Maths Marks
+87
+Enter Your Physics Marks
+89
+Enter Your Chemistry Marks
+90
+The records are[Naresh, 89.0, 98.0, 78.0, Naman, 87.0, 99.0, 87.0, Kushal, 78.0, 98.0, 87.0, Palak, 87.0, 89.0, 90.0]
+enter The Name Of which record you want to find 
+Kushal
+----------------------------------------------------------
+
+Hello Kushal
+Your Marks in Maths,Physics And Chemistry are--
+78.0
+98.0
+87.0
+
+----------------------------------------------------------
+
+Process finished with exit code 0
