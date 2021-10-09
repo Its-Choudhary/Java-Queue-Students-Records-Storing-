@@ -1,5 +1,7 @@
 package com.Naresh;
 
+/*Note- IF your are Only copying the code then don't include package com.Naresh; */
+
 import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.Queue;
